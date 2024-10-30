@@ -1,0 +1,101 @@
+[
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "",
+    "href": "https://pari-match-in.com/en/events/ukraine-v-senegal-v-12204075",
+    "team 1": "Ukraine (V)",
+    "team 2": "Senegal (V)",
+    "team 3": "Ukraine (V)",
+    "team 4": "Senegal (V)",
+    "matchStatus": "Penalty shoot-out",
+    "FT": {
+      "OVER 5.5": 1.15,
+      "UNDER 5.5": 4.35,
+      "OVER 6.5": 1.44,
+      "UNDER 6.5": 2.4,
+      "OVER 7.5": 2.5,
+      "UNDER 7.5": 1.44,
+      "OVER 8.5": 3.1,
+      "UNDER 8.5": 1.3,
+      "OVER 9.5": 15,
+      "UNDER 9.5": 1.01,
+      "1 / OVER": 3.5,
+      "1 / UNDER": 5.5,
+      "2 / OVER": 2.4,
+      "2 / UNDER": 4
+    }
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. Volta Premier League 4x4 (2x3 mins)",
+    "href": "https://pari-match-in.com/en/events/liverpool-endry-arsenal-fc-stasyan-12198400?tab=total",
+    "team 1": "Liverpool (Endry)",
+    "team 2": "Arsenal FC (Stasyan)",
+    "matchStatus": "20:59"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. Volta Premier League 4x4 (2x3 mins)",
+    "href": "https://pari-match-in.com/en/events/man-city-kolesya-tottenham-gala-12198550?tab=total",
+    "team 1": "Man City (Kolesya)",
+    "team 2": "Tottenham (Gala)",
+    "matchStatus": "20:59"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. Volta Premier League 4x4 (2x3 mins)",
+    "href": "https://pari-match-in.com/en/events/tottenham-gala-liverpool-endry-12198391?tab=total",
+    "team 1": "Tottenham (Gala)",
+    "team 2": "Liverpool (Endry)",
+    "matchStatus": "TODAY"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. International-1 (2x4 mins)",
+    "href": "https://pari-match-in.com/en/events/argentina-vivienne-spain-salfour-12203199?tab=total",
+    "team 1": "Argentina (vivienne)",
+    "team 2": "Spain (Salfour)",
+    "matchStatus": "TOMORROW"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. International-1 (2x4 mins)",
+    "href": "https://pari-match-in.com/en/events/italy-why-france-exhausted-12203208?tab=total",
+    "team 1": "Italy (why)",
+    "team 2": "France (exhausted)",
+    "matchStatus": "TOMORROW"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. International-1 (2x4 mins)",
+    "href": "https://pari-match-in.com/en/events/france-exhausted-germany-panch-12203219?tab=total",
+    "team 1": "France (exhausted)",
+    "team 2": "Germany (panch)",
+    "matchStatus": "TOMORROW"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. International-1 (2x4 mins)",
+    "href": "https://pari-match-in.com/en/events/spain-salfour-italy-why-12202778?tab=total",
+    "team 1": "Spain (Salfour)",
+    "team 2": "Italy (why)",
+    "matchStatus": "TOMORROW"
+  },
+  {
+    "bookMaker": "parimatch",
+    "sport": "football",
+    "league": "E-Football. ESportsBattle. International-1 (2x4 mins)",
+    "href": "https://pari-match-in.com/en/events/germany-panch-spain-salfour-12203357?tab=total",
+    "team 1": "Germany (panch)",
+    "team 2": "Spain (Salfour)",
+    "matchStatus": "TOMORROW"
+  }
+]
